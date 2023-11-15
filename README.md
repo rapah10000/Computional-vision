@@ -1,7 +1,8 @@
-# Computional-vision Equipe Gabaritei
-# Rafael Oliveira Carvalho - 8164
-# Rafael Henrique dos Santos Simão - 8160
-# Nathália Marques Lima - 8163
+# Computional-vision 
+### Equipe Gabaritei
+### Rafael Oliveira Carvalho - 8164
+### Rafael Henrique dos Santos Simão - 8160
+### Nathália Marques Lima - 8163
 
 Estamos importando bibliotecas como OpenCV para manipulação de imagens, NumPy para operações numéricas eficientes e SciPy para funções estatísticas e otimização. Cada uma desempenha um papel crucial na análise da imagem.
 Pré-processamento da Imagem: Começamos carregando a imagem da folha de respostas, convertendo-a para escala de cinza e aplicando um limiar binário para destacar as bolhas de respostas.
